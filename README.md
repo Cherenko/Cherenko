@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I.K. Guillermo</h1>
+<h1 align="center">Hi, I'm I.K. Guillermo</h1>
 <h3 align="center">Self-taught Programmer pursuing a career in IoT Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherenko&label=Profile%20views&color=0e75b6&style=flat" alt="cherenko" /> </p>
