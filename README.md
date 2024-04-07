@@ -2,7 +2,6 @@
 <p> Hi! I'm Ian an electronics technician and self taught programmer, currently working as an IT Manager. </p>
 🔭 I’m currently working on Web Apps & IoT.<br>🌱 I’m currently learning Python & Django. <br>⚡ "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion" - Albert Camus<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikguillermo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KirubeECT) 
 
