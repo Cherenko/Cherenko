@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on IoT & Web Apps.<br>🌱 I’m currently learning Python & Django. <br>⚡ "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion" - Albert Camus<br>
+🔭 I’m currently working on Web Apps and IoT.<br>🌱 I’m currently learning Python & Django. <br>⚡ "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion" - Albert Camus<br>
 
 
 ## 🌐 Socials:
