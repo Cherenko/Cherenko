@@ -1,5 +1,5 @@
 # 👹 I.K. Guillermo
-<p> Hi! I'm Ian an Electronics Technician and Self taught programmer. </p>
+<p> Hi! I'm Ian an electronics technician and self taught programmer. </p>
 🔭 I’m currently working on Web Apps & IoT.<br>🌱 I’m currently learning Python & Django. <br>⚡ "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion" - Albert Camus<br>
 
 
