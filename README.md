@@ -1,5 +1,5 @@
 # 👹 What's in the name?
-<p><b> Hi! I'm Ian, an electronics technician and self taught programmer, currently working as an IT Manager. </b></p>
+<p><b> Hi! I'm Ian, an electronics technician and self taught programmer, currently working as an IT Assets Administrator. </b></p>
 🔨 I’m currently working on Web Apps & IoT.<br>🌱 I’m currently learning Python & Django. <br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
 
 ## 🌐 Socials:
