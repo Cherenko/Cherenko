@@ -1,6 +1,6 @@
 # 👹 What's in the name?
-<p><b> Hi! I'm Ian, an electronics technician and self taught programmer, currently working as an IT Asset Administrator. </b></p>
-🔨 I’m currently working on Web Apps & IoT.<br>🌱 I’m currently learning Python & Django. <br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
+<p><b> Hi! I'm Ian, a licensed ECT and self-taught software engineer, currently working as an IT Asset Administrator. </b></p>
+🔨 I’m currently working on Web Apps & IoT. <br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikguillermo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KirubeECT) 
