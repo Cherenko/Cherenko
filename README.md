@@ -2,8 +2,8 @@
 <p><b> Hi! I'm Ian, a licensed ECT and self-taught software engineer, currently working as an IT Asset Administrator. </b></p>
 🔨 Currently working on Python Automation and IoT Development. <br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
 
+# Visitor Count
 <div align="center"> 
-  <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Cherenko/count.svg" alt="Visitor's Count" />
 </div>
 
