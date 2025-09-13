@@ -23,6 +23,7 @@
 ![Proteus](https://img.shields.io/badge/-Proteus-008080?style=for-the-badge&logo=Proteus&logoColor=white) 
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#) 
+![AssetTiger](https://custom-icon-badges.demolab.com/badge/asset%20-tiger%20-FCC624.svg?style=for-the-badge&logo=tiger&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 [![CSS](https://img.shields.io/badge/CSS-0052cc?style=for-the-badge&logo=css&logoColor=fff)](#)
