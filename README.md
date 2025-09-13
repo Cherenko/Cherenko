@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Cherenko&color=green&style=for-the-badge)
 
 ## 💻 Tools & Tech Stack:
-![Python](https://img.shields.io/badge/python-000080?style=for-the-badge&logo=python&logoColor=ffcc00)
+![Python](https://img.shields.io/badge/python-002966?style=for-the-badge&logo=python&logoColor=ffcc00)
 ![C](https://img.shields.io/badge/c-%238600b3.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
@@ -20,10 +20,10 @@
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Proteus](https://img.shields.io/badge/-Proteus-008080?style=for-the-badge&logo=Proteus&logoColor=white) 
+![Proteus](https://img.shields.io/badge/-Proteus-02303A?style=for-the-badge&logo=Proteus&logoColor=white) 
 [![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#) 
-![AssetTiger](https://custom-icon-badges.demolab.com/badge/asset%20-tiger%20-FCC624.svg?style=for-the-badge&logo=tiger&logoColor=white)
+![AssetTiger](https://img.shields.io/badge/Asset%20Tiger-%23ED8B0B.svg?style=for-the-badge&logo=timescale&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 [![CSS](https://img.shields.io/badge/CSS-0052cc?style=for-the-badge&logo=css&logoColor=fff)](#)
