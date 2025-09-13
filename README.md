@@ -32,7 +32,8 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Kyocera](https://img.shields.io/badge/kyocera-%23DF0522.svg?&style=for-the-badge&logo=kyocera&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Cherenko&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
