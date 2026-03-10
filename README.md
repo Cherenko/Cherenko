@@ -1,6 +1,6 @@
 ## 👹 What's in the name?
 <p><b>Licensed ECT and self-taught Python engineer, currently working as an IT Operations Engineer. </b></p>
-🔨 Currently deploying Python Automations and IT Systems Improvements.
+🔨 Currently deploying Python Automations and IT System Improvements.
 <br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
 
 ## Visitor Count
