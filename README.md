@@ -1,5 +1,5 @@
 ## 👹 What's in the name?
-<p><b>Licensed ECT and self-taught Python engineer, currently working as an IT Asset Administrator. </b></p>
+<p><b>Licensed ECT and self-taught Python engineer, currently working as an IT Operations Engineer. </b></p>
 🔨 Currently deploying Python Automations and IoT Development.
 <br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
 
