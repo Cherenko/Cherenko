@@ -1,7 +1,7 @@
 ## 👹 What's in the name?
 <p><b>Licensed ECT and self-taught Python engineer, currently working as an IT Operations Engineer. </b></p>
 🔨 Currently deploying Python & AI Automations and IT System Improvements.
-<br>💀 Motto: <i>"Improvisare, Apto et Vincere"</i><br>
+<br>💀<i>"Improvisare, Apto et Vincere"</i><br>
 
 ## Visitor Count
 ![](https://komarev.com/ghpvc/?username=Cherenko&color=green&style=for-the-badge)
